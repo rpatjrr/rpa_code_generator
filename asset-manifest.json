@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rpa_code_generator/static/css/main.073c9b0a.css",
+    "main.js": "/rpa_code_generator/static/js/main.9a4a1044.js",
+    "index.html": "/rpa_code_generator/index.html",
+    "main.073c9b0a.css.map": "/rpa_code_generator/static/css/main.073c9b0a.css.map",
+    "main.9a4a1044.js.map": "/rpa_code_generator/static/js/main.9a4a1044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9a4a1044.js"
+  ]
+}
